@@ -1,6 +1,14 @@
 ## Hello!
 
-honeymoon is a 3d game engine i am currently working on, there really is much as of right now (as you can see) but i plan to buckle down very soon.
+honeymoon is a 2d / 3d game engine i am currently working on, there really is much as of right now (as you can see) but i plan to buckle down very soon.
+
+### features
+
+opengl and maybe direct x
+
+bullet physics maybe
+
+others probably...
 
 ### why
 
