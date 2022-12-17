@@ -1,19 +1,13 @@
 ## Hello!
 
-honeymoon is a 2d / 3d game engine i am currently working on, there really is much as of right now (as you can see) but i plan to buckle down very soon.
+honeymoon is a 2d game engine, created by someone who has no idea what he is doing
 
 ### features
 
-opengl and maybe direct x
+opengl and maybe vulkan
 
-bullet physics maybe
-
-others probably...
-
-### why
-
-i am making this because i have always wanted to make a game created by just my code and just my assets, i find making a game engine is the best way to do this ofc.
+more to come...
 
 ### how to build
 
-you cant as of right now, but soon you will using visual studio and eventually cmake as well :)
+nothing yet...
